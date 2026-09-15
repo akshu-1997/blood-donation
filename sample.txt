@@ -1,0 +1,10 @@
+blood grps
+
+A positive
+A negative
+B positive
+B negative
+AB positive
+AB negative
+O positive
+O negative
