@@ -1,4 +1,4 @@
-blood grps
+blood groups
 
 A positive-128745
 A negative-6956958
