@@ -1,10 +1,10 @@
 blood grps
 
-A positive
-A negative
-B positive
-B negative
-AB positive
-AB negative
-O positive
-O negative
+A positive-128745
+A negative-6956958
+B positive-8906764
+B negative-6543346
+AB positive-6397644
+AB negative-45678
+O positive-75428345
+O negative-3627674
